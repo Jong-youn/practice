@@ -1,0 +1,13 @@
+package com.practice.chapter13;
+
+import javax.swing.*;
+
+public class Thread5 {
+    public static void main(String[] args) {
+        ThreadEx5_1 th1 = new ThreadEx5_1();
+        th1.start();
+
+        String input = JOptionPane.showInputDialog("아무 값이나 입력하세요");
+        System.out.println("입력하신 값은 " + input + "입니다.");
+    }
+}
