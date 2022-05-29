@@ -1,0 +1,29 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(—¾–†
+E
+java:S3740"/Provide the parametrized type for this generic.(—¾–†
+J
+java:S3740"/Provide the parametrized type for this generic.(ù¦ÏÞþÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ù¦ÏÞþÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(›˜üÇøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(›˜üÇøÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—¾–†
+R
+java:S1854"7Remove this useless assignment to local variable "arr".(——°ˆøÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "ll".(›˜üÇøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(è›‡¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ãÑäÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÑÿÈýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ãÑäÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÑÿÈýÿÿÿÿ
+B
+java:S1481"'Remove this unused "ll" local variable.(›˜üÇøÿÿÿÿ
+C
+java:S1481"(Remove this unused "arr" local variable.(——°ˆøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
