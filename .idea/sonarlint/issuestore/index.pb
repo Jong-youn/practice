@@ -53,3 +53,5 @@ q
 Asrc/com/practice/designPattern/strategy/ActionCharacter/Game.java,6/4/641c0d6a151344f2abb76c10fed5e885907d361b
 r
 Bsrc/com/practice/designPattern/strategy/duckSimultation2/Duck.java,e/c/ec23c1656ad43fc8ae13595675303a564e703d6f
+v
+Fsrc/com/practice/designPattern/strategy/ActionCharacter/Character.java,3/4/349e6148f772074cf8325e6a12e6f063646f4452
