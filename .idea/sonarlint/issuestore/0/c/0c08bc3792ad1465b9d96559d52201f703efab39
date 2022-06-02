@@ -1,25 +1,0 @@
-
-W
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Æò²şúÿÿÿÿ
-R
-java:S4973"<Strings and Boxed types should be compared using "equals()".(µ¾íó
-W
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Î×çÛùÿÿÿÿ
-W
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Àûâ…üÿÿÿÿ
-;
-java:S2129" Remove this "String" constructor(“…Ğøÿÿÿÿ
-;
-java:S2129" Remove this "String" constructor(üı€ğúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(÷¾ãÕÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ñáÿùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì„¿Îùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(üŞ ºûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(»ÎŒÌ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ğïû¡ùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Æò²şúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(µ¾íó
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉµÈµ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Î×çÛùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯›Şš
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Àûâ…üÿÿÿÿ
